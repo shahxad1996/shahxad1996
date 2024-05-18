@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahzad Ahmad</h1>
-<h3 align="center">A passionate Web Daveloper and now focusing on Machine Learning and NLP</h3>
+<h3 align="center">A passionate Web Daveloper and now focusing on Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahxad1996&label=Profile%20views&color=0e75b6&style=flat" alt="shahxad1996" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **ML,WEB Development, NLP,**
 
-- 📫 How to reach me **shahxadmumtaz1996@hotmail.com**
+- 📫 How to reach me **shahxad136@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
